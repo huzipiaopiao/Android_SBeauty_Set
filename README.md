@@ -10,3 +10,7 @@
 -   不同Activity或Fragment间元素共享，让交互更连贯；
     
 -   同一个Activity之间一些View的变换动画。
+
+### RecyclerView
+
+- 给item添加水波纹：android:foreground="?android:attr/selectableItemBackground"
