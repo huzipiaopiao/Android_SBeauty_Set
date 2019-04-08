@@ -14,3 +14,4 @@
 ### RecyclerView
 
 - 给item添加水波纹：android:foreground="?android:attr/selectableItemBackground"
+- SnapHelper：用于辅助RecyclerView在滚动结束时将Item对齐到某个位置。特别是列表横向滑动时，很多时候不会让列表滑到任意位置，而是会有一定的规则限制，这时候就可以通过SnapHelper来定义对齐规则了。
